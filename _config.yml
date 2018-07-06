@@ -225,7 +225,7 @@ defaults:
     #permalink: "/blog/:title/"
     layout: post
     cover: /assets/default.jpg
-    facebookImg: /assets/kakao_log.png
+    facebookImg: /assets/kakao_logo.jpg
     author:
 - scope:
     path: ''
@@ -240,7 +240,7 @@ defaults:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/kakao_log.png"
+    fb_image: "/assets/kakao_logo.jpg"
     fb_image_width: 800
     fb_image_height: 400
     fb_image_type: "image/png"
