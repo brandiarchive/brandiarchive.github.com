@@ -2,6 +2,7 @@
 title: 브랜디 22차 QA를 진행하며
 layout: post
 cover: "/assets/timeline.jpg"
+facebookImg: "/assets/kakao_log.jpg"
 author: kimcy
 date: '2018-01-02 00:00:00'
 subtitle: 입사 후 첫 QA 퀘스트 극복기
